@@ -1,0 +1,58 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin:0;
+    padding:0;
+}
+.container{
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color:white;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+.header{
+    text-align:center;
+    margin-bottom:20px;
+    background-color:aqua;
+}
+.name{
+    font-size: 28px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin: 10px 0;
+}
+.contact{
+    margin-top: 10px;
+}
+.contact p{
+    margin:5px 0;
+}
+.section{
+    margin-top: 20px;
+}
+.section h3{
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+.section ul{
+    list-style: none;
+    padding: 0;
+}
+.section li{
+    margin-bottom: 10px;
+}
+.section ul li strong{
+    display: inline-block;
+    width: 150px;
+    font-weight: bold;
+}
+.section ol li{
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+}
+.footer{
+    text-align:center;
+    margin-top: 20px;
+}
